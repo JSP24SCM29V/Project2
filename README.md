@@ -1,4 +1,4 @@
-# 🌳 Gradient Boosting Classifier - From Scratch
+# Gradient Boosting Classifier - From Scratch
 
 ## Overview
 
